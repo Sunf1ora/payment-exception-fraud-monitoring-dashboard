@@ -1,0 +1,17 @@
+﻿department,investigation_priority,overdue_case_count,overdue_amount,average_days_open,max_days_open
+Transport Department,High,8,2227168,16.875,19
+Culture and Tourism Department,High,8,1349658,16.375,20
+Finance Bureau Internal Unit,High,7,2214795,18.571428571428573,20
+Community Services Department,High,3,1390290,17.0,19
+Culture and Tourism Department,Critical,3,795998,14.666666666666666,20
+Environmental Protection Department,High,3,743518,18.666666666666668,20
+Health Department,High,2,1006191,18.5,19
+Emergency Management Department,High,2,945599,19.0,19
+Finance Bureau Internal Unit,Critical,2,797729,14.5,17
+Infrastructure Department,Critical,1,699204,14.0,14
+Education Department,Critical,1,565588,9.0,9
+Social Security Department,Critical,1,562613,18.0,18
+Environmental Protection Department,Critical,1,499234,29.0,29
+Agriculture Department,High,1,385431,19.0,19
+Transport Department,Critical,1,103911,29.0,29
+Infrastructure Department,High,1,63444,17.0,17

@@ -1,0 +1,2 @@
+﻿total_transactions,total_investigation_cases,high_risk_transactions,medium_risk_transactions,low_risk_transactions,critical_cases,high_priority_cases,overdue_cases,second_review_required_cases,total_payment_amount,investigation_case_amount,average_risk_score,average_days_open
+812,325,11,175,626,10,36,45,46,162094374,81733678,1.396551724137931,7.178461538461539
